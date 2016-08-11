@@ -1,0 +1,30 @@
+*{
+	font-family: 'Open Sans', sans-serif;
+}
+body{
+	font-size:13px;
+	font-family: font-family: 'Open Sans', sans-serif;
+	padding: 10px;
+	color: #ffffff;
+	margin: 0px;
+	border: 0px;
+	background: #272727 url(../images/bg_notice.png) no-repeat;
+	background-attachment: fixed;
+}
+
+h1{
+	font-size: 15px;
+	font-weight: bold;
+
+}
+
+a:link, a:visited{
+	color: #272727;
+	text-decoration: none;
+	background-color: #74ea40;
+	border-radius: 10px;
+	padding: 3px 10px;
+}
+li{
+	list-style-image:url();
+}
